@@ -1,0 +1,13 @@
+# Ignorer dossier build
+build/
+
+# Ignorer SFML
+includes/SFML/
+libs/SFML/
+
+# Ignorer tout fichier ou dossier caché
+.*
+
+# Ré-inclure le dépôt git et gitignore
+!.gitignore
+!.git

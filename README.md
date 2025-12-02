@@ -1,1 +1,3 @@
-# Jurassic_roar
+# jurassic_roar
+
+![jr](res/jr.gif)
